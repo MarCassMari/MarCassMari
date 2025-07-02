@@ -54,5 +54,4 @@ Sistema de dashboard de vendas construído com Next.js, TailwindCSS e integraç�
 
 ## 📬 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/mariana-machado-amaral-8766b3300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- Email: mariengca27@gmail.com ou marcassmachado32@gmail.com
+- Email: marcassmachado32@gmail.com
