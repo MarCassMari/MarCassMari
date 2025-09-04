@@ -1,6 +1,6 @@
 # 👨‍💻 Mar Melty
 
-Desenvolvedor Web Full Stack | Node.js • Next.js • Python
+Desenvolvedor Web Full Stack | Node.js - Express.js - NestJS • React - Next.js • Python - Django
 
 ---
 
