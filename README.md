@@ -48,8 +48,10 @@ Sistema de dashboard de vendas construído com Next.js, TailwindCSS e integraç�
 
 - Curso FullStack Club - Next.js Completo.
 - Curso FullStack Club - Node.js Completo.
+- Curso FullStack Club - React.js Completo.
 - Roadmap.sh (Frontend & Backend) + Documentação oficial
 - Projetos com OpenAI, Django, CI/CD, MongoDB e testes end-to-end.
+- Sistemas operacionais: Linux(Ubuntu) - Linux(Kali Linux - Pentest skills) - Windows(WSL com Linux) 
 
 ---
 
